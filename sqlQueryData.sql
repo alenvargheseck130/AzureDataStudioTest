@@ -1,1 +1,1 @@
-SELECT * FROM dbo.MSdatatype_mappings
+SELECT * FROM dbo.spt_values
